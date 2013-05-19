@@ -2,9 +2,9 @@
 
 ## About
 
-Demo accompanying talk about Backbone.js on DrupalJam2013 presented by [Toon Ketels][].
+Demo accompanying talk about Backbone.js on DrupalJam2013 presented by [Toon Ketels](http://twitter.com/toonketels).
 
-[Toon Ketels](http://twitter.com/toonketels)
+Slides can be found at [speakerdeck](https://speakerdeck.com/toonketels/introducing-backbone-dot-js).
 
 
 ## Usage
